@@ -1,0 +1,1 @@
+Esta aplicación es para monitorear el rendimiento academico de un estudiante, y basado en eso, predecir si hay probabilidad de perder la calidad de estudiante en el proximo semestre según las materias inscritas
